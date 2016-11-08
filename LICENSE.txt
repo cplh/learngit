@@ -1,0 +1,2 @@
+this is a license text
+including some text;
